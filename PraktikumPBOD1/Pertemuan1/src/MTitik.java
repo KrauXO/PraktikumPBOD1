@@ -1,5 +1,5 @@
 /* Nama File    : MTitik.java */
-/* Deskripsi    : berisi atribut dan method dalam class Titik */
+/* Deskripsi    : Berisi atribut dan method dalam class Titik */
 /* Pembuat      : Saburo Rafqi Hidayat - 24060124140196 */
 /* Tanggal      : 24 Februari 2026*/
 public class MTitik {
