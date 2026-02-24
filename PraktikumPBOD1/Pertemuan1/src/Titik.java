@@ -1,5 +1,5 @@
 /* Nama File    : Titik.java */
-/* Deskripsi    : Kelas Titik yang merepresentasikan sebuah titik dalam bidang dua dimensi */
+/* Deskripsi    : kelas Titik yang merepresentasikan sebuah titik dalam bidang dua dimensi */
 /* Pembuat      : Saburo Rafqi Hidayat - 24060124140196 */
 /* Tanggal      : 24 Februari 2026*/
 public class Titik {
