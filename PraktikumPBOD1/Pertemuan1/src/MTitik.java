@@ -1,3 +1,7 @@
+/* Nama File    : MTitik.java */
+/* Deskripsi    : Berisi atribut dan method dalam class Titik */
+/* Pembuat      : Saburo Rafqi Hidayat - 24060124140196 */
+/* Tanggal      : 24 Februari 2026*/
 public class MTitik {
     public static void main(String[] args) {
         Titik T1 = new Titik(); // Membuat objek titik T1 (0,0)
