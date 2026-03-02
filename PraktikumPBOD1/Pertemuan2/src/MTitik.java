@@ -21,7 +21,7 @@ public class MTitik {
 
         System.out.println("================= counterTitik ================" );
         System.out.println("Jumlah Objek Titik = " + Titik.getCounterTitik());
-        System.out.println("Jumlah Objek Titik = " + T3.getCounterTitik());
+        System.out.println("Jumlah Objek Titik = " + T2.getCounterTitik());
 
         System.out.println("=================== Kuadran ===================" );
         System.out.println("Titik T1 : ");
