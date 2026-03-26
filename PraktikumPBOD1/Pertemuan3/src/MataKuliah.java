@@ -53,4 +53,5 @@ public class MataKuliah {
     public void setSks(int sks){ 
         this.sks = sks; 
     }
+    
 }

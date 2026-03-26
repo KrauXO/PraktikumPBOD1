@@ -1,3 +1,7 @@
+/* Nama File    : MGaris.java */
+/* Deskripsi    : Berisi atribut dan method dalam class Garis */
+/* Pembuat      : Saburo Rafqi Hidayat - 24060124140196 */
+/* Tanggal      : 2 Maret 2026*/
 public class MGaris {
     public static void main(String[] args) {
         System.out.println("=========================BUAT TITIK=========================");
