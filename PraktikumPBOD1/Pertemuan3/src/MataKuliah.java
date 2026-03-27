@@ -3,7 +3,7 @@
 /* Pembuat      : Saburo Rafqi Hidayat - 24060124140196 */
 /* Tanggal      : 3 Maret 2026*/
 
-public class MataKuliah {
+public class MataKuliah{
     /******************** ATRIBUT ********************/
     private String idMatKul;
     private String nama;
@@ -53,4 +53,5 @@ public class MataKuliah {
     public void setSks(int sks){ 
         this.sks = sks; 
     }
+    
 }
