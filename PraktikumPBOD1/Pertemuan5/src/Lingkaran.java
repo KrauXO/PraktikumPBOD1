@@ -1,7 +1,7 @@
 /* Nama File    : Lingkaran.java */
 /* Deskripsi    : Berisi atribut dan method dalam subclass Lingkaran */
 /* Pembuat      : Saburo Rafqi Hidayat - 24060124140196 */
-/* Tanggal      : 10 Maret 2026*/
+/* Tanggal      : 17 Maret 2026*/
 
 public class Lingkaran extends BangunDatar implements IResize{
     private double jari;
@@ -49,5 +49,4 @@ public class Lingkaran extends BangunDatar implements IResize{
     public void zoom(int percent) {
         jari = jari * percent / 100;
     }
-
 }

@@ -1,7 +1,7 @@
 /* Nama File    : MBangunDatar.java */
 /* Deskripsi    : Berisi atribut dan method dalam class BangunDatar */
 /* Pembuat      : Saburo Rafqi Hidayat - 24060124140196 */
-/* Tanggal      : 10 Maret 2026*/
+/* Tanggal      : 17 Maret 2026*/
 
 public class MBangunDatar {
     public static void main(String[] args) {

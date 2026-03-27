@@ -1,7 +1,7 @@
 /* Nama File    : Persegi.java */
 /* Deskripsi    : Berisi atribut dan method dalam subclass Persegi */
 /* Pembuat      : Saburo Rafqi Hidayat - 24060124140196 */
-/* Tanggal      : 10 Maret 2026*/
+/* Tanggal      : 17 Maret 2026*/
 
 public class Persegi extends BangunDatar implements IResize {
     private double sisi;
