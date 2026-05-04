@@ -1,5 +1,5 @@
 /*  NAMA FILE       : Mahasiswa.java
-    DESKRIPSI FILE  : Berisi atribut dan method class Mahasiswa untuk realisasi polimorfisme ad hoc overloading
+    DESKRIPSI FILE  : Berisi atribut dan method subclass Mahasiswa untuk realisasi polimorfisme ad hoc overloading
     NAMA / NIM      : Saburo Rafqi Hidayat / 24060124140196
     Tanggal         : 27 April 2026
 */
