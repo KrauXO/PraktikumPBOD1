@@ -1,3 +1,8 @@
+/*  NAMA FILE       : Kucing.java
+    DESKRIPSI FILE  : Berisi atribut dan method subclass Kucing untuk realisasi polimorfisme Universal Inclusion
+    NAMA / NIM      : Saburo Rafqi Hidayat / 24060124140196
+    Tanggal         : 27 April 2026
+*/
 public class Kucing extends Anabul {
     /* ATRIBUT */
 

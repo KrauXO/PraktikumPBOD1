@@ -1,3 +1,8 @@
+/*  NAMA FILE       : Burung.java
+    DESKRIPSI FILE  : Berisi atribut dan method subclass Burung untuk realisasi polimorfisme Universal Inclusion
+    NAMA / NIM      : Saburo Rafqi Hidayat / 24060124140196
+    Tanggal         : 27 April 2026
+*/
 public class Burung extends Anabul{
     /* ATRIBUT */
 

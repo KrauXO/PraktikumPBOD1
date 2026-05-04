@@ -1,3 +1,9 @@
+/*  NAMA FILE       : Seminar.java
+    DESKRIPSI FILE  : Berisi atribut dan method class Seminar untuk realisasi polimorfisme Universal Inclusion
+    NAMA / NIM      : Saburo Rafqi Hidayat / 24060124140196
+    Tanggal         : 27 April 2026
+*/
+
 class Seminar {
     /* ATRIBUT */
     private Civitasakademika[] pesertas;

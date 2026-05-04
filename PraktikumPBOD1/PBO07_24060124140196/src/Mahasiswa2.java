@@ -1,3 +1,9 @@
+/*  NAMA FILE       : Mahasiswa2.java
+    DESKRIPSI FILE  : Berisi atribut dan method class Mahasiswa2 untuk realisasi polimorfisme Universal Inclusion
+    NAMA / NIM      : Saburo Rafqi Hidayat / 24060124140196
+    Tanggal         : 27 April 2026
+*/
+
 class Mahasiswa2 extends Civitasakademika {
     /* ATRIBUT */
     private String NIM;
