@@ -1,3 +1,9 @@
+/*  NAMA FILE       : OperatorGenerik.java
+    DESKRIPSI FILE  : Berisi atribut dan method class OperatorGenerik
+    NAMA / NIM      : Saburo Rafqi Hidayat / 24060124140196
+    Tanggal         : 3 Mei 2026
+*/
+
 public class OperatorGenerik {
     /* ATRIBUT */
 

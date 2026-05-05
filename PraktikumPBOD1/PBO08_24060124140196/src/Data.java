@@ -1,3 +1,9 @@
+/*  NAMA FILE       : Data.java
+    DESKRIPSI FILE  : Berisi atribut dan method class Data
+    NAMA / NIM      : Saburo Rafqi Hidayat / 24060124140196
+    Tanggal         : 3 Mei 2026
+*/
+
 public class Data<T> {
     /* ATRIBUT */
     private T[] ruang;
